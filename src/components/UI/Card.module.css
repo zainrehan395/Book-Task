@@ -1,0 +1,13 @@
+.card {
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    /* max-height: 30rem; */
+    max-width: 15rem;
+    border: 0.2rem solid rgb(0, 12, 64);
+}
+
+.card img {
+    width: 10rem;
+}

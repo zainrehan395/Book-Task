@@ -1,0 +1,18 @@
+.otherDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.loaderDiv {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ButtonDiv{
+    display: flex;
+    justify-content: center;
+}
